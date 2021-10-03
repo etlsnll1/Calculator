@@ -5,15 +5,15 @@ VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator.csproj", "{F0B3294A-7790-4230-BFCB-7CFC414CEC32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.InterfaceSpecifications", "..\Calculator.InterfaceSpecifications\Calculator.InterfaceSpecifications.csproj", "{68A55AE5-9982-4508-BFDA-412BF16A81C6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.InterfaceSpecifications", "Calculator.InterfaceSpecifications\Calculator.InterfaceSpecifications.csproj", "{68A55AE5-9982-4508-BFDA-412BF16A81C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steves.CalculatorService", "..\Steves.CalculatorService\Steves.CalculatorService.csproj", "{A5A58D11-27DF-40AC-A8D2-789D99EB7C9A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steves.CalculatorService", "Steves.CalculatorService\Steves.CalculatorService.csproj", "{A5A58D11-27DF-40AC-A8D2-789D99EB7C9A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unit Tests", "Unit Tests", "{408DE36F-0F7A-409E-B6D3-69CFCA11A2D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steves.CalculatorService.Tests", "..\Steves.CalculatorService.Tests\Steves.CalculatorService.Tests.csproj", "{9A00A039-83E8-4072-B4BA-07A9DF06C942}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steves.CalculatorService.Tests", "Steves.CalculatorService.Tests\Steves.CalculatorService.Tests.csproj", "{9A00A039-83E8-4072-B4BA-07A9DF06C942}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.Tests", "..\Calculator.Tests\Calculator.Tests.csproj", "{70FB9E83-08AA-4664-8BB4-2B1E480C44EF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.Tests", "Calculator.Tests\Calculator.Tests.csproj", "{70FB9E83-08AA-4664-8BB4-2B1E480C44EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
