@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator.csproj", "{F0B3294A-7790-4230-BFCB-7CFC414CEC32}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{F0B3294A-7790-4230-BFCB-7CFC414CEC32}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.InterfaceSpecifications", "Calculator.InterfaceSpecifications\Calculator.InterfaceSpecifications.csproj", "{68A55AE5-9982-4508-BFDA-412BF16A81C6}"
 EndProject
